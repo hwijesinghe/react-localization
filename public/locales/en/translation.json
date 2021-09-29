@@ -1,0 +1,8 @@
+{
+  "title": "Sri Lanka",
+  "language": "English",
+  "message_to_srilanka" : "Welcome to Sri Lanka",
+  "indipendency": "Indipendent Year 1948 - {{difference_in_days}} days past",
+  "national_flower": "Nill Manel",
+  "national_bird": "National Bird - {{national_bird_name}}"
+}
